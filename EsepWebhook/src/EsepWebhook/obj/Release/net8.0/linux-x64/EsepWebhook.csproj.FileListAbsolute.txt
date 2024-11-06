@@ -15,3 +15,5 @@ C:\Users\yuiin\OneDrive\Desktop\Uni\UF\Fall2024\Enterprise\WebHook\esep-webhooks
 C:\Users\yuiin\OneDrive\Desktop\Uni\UF\Fall2024\Enterprise\WebHook\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.pdb
 C:\Users\yuiin\OneDrive\Desktop\Uni\UF\Fall2024\Enterprise\WebHook\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.genruntimeconfig.cache
 C:\Users\yuiin\OneDrive\Desktop\Uni\UF\Fall2024\Enterprise\WebHook\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\ref\EsepWebhook.dll
+C:\Users\yuiin\OneDrive\Desktop\Uni\UF\Fall2024\Enterprise\WebHook\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\Newtonsoft.Json.dll
+C:\Users\yuiin\OneDrive\Desktop\Uni\UF\Fall2024\Enterprise\WebHook\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.sourcelink.json
